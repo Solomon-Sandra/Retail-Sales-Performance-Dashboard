@@ -114,6 +114,9 @@ An interactive Excel dashboard was created to visualize the insights, featuring:
 ---
 
 ## Dashboard Preview
+![Retail Sales Dashboard](retail_sales_dashboard.png)
+
+
 
 ---
 
