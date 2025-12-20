@@ -86,6 +86,7 @@ SQL queries used for this analysis can be found in the `sql/` folder.
 ## Key Insights
 - **Total Revenue:** $456,000+
 - **Peak Sales Month:** May ($53,150)
+- **Lowest Sales Month:** September ($23.6k)
 - **Top Product Category:** Electronics ($156,905)
 - **Highest Contributing Age Group:** Adult
 - **Top Performing Gender (Average Sales):** Female
@@ -114,8 +115,7 @@ An interactive Excel dashboard was created to visualize the insights, featuring:
 ---
 
 ## Dashboard Preview
-![Retail Sales Dashboard](retail_sales_dashboard.png)
-
+![Retail Sales Dashboard](Retail%20sales%20dashboard.png)
 
 
 ---
