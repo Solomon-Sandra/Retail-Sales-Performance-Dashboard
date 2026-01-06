@@ -103,6 +103,7 @@ An interactive Excel dashboard was created to visualize the insights, featuring:
 - Sales performance by gender
 - Interactive slicers for filtering by category and age group
 
+
 ---
 
 ## Tools & Technologies
@@ -115,7 +116,8 @@ An interactive Excel dashboard was created to visualize the insights, featuring:
 ---
 
 ## Dashboard Preview
-![Retail Sales Dashboard](images/retail_sales_dashboard.png)
+<img width="1556" height="676" alt="retail_sales_dashboard" src="https://github.com/user-attachments/assets/5ba503e8-bff8-4fe7-9966-fdadc158ae8a" />
+
 
 ---
 
